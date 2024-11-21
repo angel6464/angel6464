@@ -1,5 +1,5 @@
 # 💫 About Me:
-❤Full Stack developer Jr en proceso<br>😁Estudio 4° en Ing. De Sistemas Informaticos<br>🎉 Aprender es mi pasión. <br>👍Enfocado en convertirme en un profesional en el desarrollo web.<br>👀Nivel de Idioma Ingles: A1
+❤Full Stack developer Jr en proceso<br>😁Estudio 4° en Ing. De Sistemas Informaticos<br>🎉 Aprender es mi pasión. <br>👍Enfocado en convertirme en un profesional en el desarrollo web.<br>👀Nivel de Idioma Ingles: A2
 
 
 ## 🌐 Socials:
